@@ -56,6 +56,7 @@ scikit-image==0.13.1
 scikit-learn==0.19.1
 scipy==1.0.0
 seaborn==0.8.1
+selectivesearch==0.4
 Send2Trash==1.5.0
 simplegeneric==0.8.1
 sip==4.19.8
@@ -65,6 +66,7 @@ tensorflow==1.4.0
 tensorflow-tensorboard==0.4.0
 terminado==0.8.1
 testpath==0.3.1
+tflearn==0.3.2
 tornado==4.5.3
 traitlets==4.3.2
 urllib3==1.22

@@ -12,18 +12,22 @@ When you use your own favorite environment and tools that we didn't recomend, **
     - https://www.anaconda.com/download/
     - DO NOT ALLOW ADMINISTRATOR PRIVILEGE IN WINDOWS INSTALL WIZARD.
 2. Create your python virtual environment in your Termianl or CMD
-    - <code>conda create -n ajoucv python=3.6.4</code>
+    ```
+    conda update anaconda
+    conda create -n ajoucv python=3.6.4
+    ```
 3. Install PyCharm IDE
     - https://www.jetbrains.com/pycharm/
     - Run your pycharm 
   
 4. Import Skeleton Project from GitHub.
-    - https://github.com/waps12b/ajou.computervision.2018.spring
+    - https://github.com/waps12b/ajou.computervision.2018.spring.git
     - ![](./figures/figure03.PNG)
 
 5. Set <code>ajoucv</code> environment as your project interpreter.
     - you can find the path of your virtual env interpreter in the command console.
-        - <code>conda info -e</code>.
+        - <code>conda info -e</code>
+        - ![](./figures/figure07.PNG)
     - Open **Project Setting** and change interpreter setting like below.
         - File > Settings  > Project > Project Interpreter > Add Local 
         - ![](./figures/figure04.PNG)
