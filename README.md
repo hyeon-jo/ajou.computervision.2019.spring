@@ -14,7 +14,7 @@ When you use your own favorite environment and tools that we didn't recomend, **
 2. Create your python virtual environment in your Termianl or CMD
     ```
     conda update anaconda
-    conda create -n ajoucv python=3.6.4
+    conda create -n ajoucv python=3.6
     ```
 3. Install PyCharm IDE
     - https://www.jetbrains.com/pycharm/
