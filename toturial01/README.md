@@ -27,7 +27,7 @@ cv2.imwrite('path/filename')
 ```python
 img = cv2.imread('path/filename') #any image data in numpy array type
 cv2.imshow('popup_title', img)
-cv2.waitkey(0)
+cv2.waitKey(0)
 ```
 
 5. Change the color space of image
@@ -37,5 +37,5 @@ img = cv2.imread('path/filename', cv2.IMREAD_COLOR) #any image data
 gray = cv2.cvtColor(img, cv2.COLOR_RGB2GRAY)
 
 cv2.imshow('popup_title', img)
-cv2.waitkey(0)
+cv2.waitKey(0)
 ``` 
