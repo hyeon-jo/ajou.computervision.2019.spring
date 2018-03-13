@@ -5,6 +5,8 @@
     - http://scikit-image.org/docs/dev/api/skimage.filters.html
     - provides many filters, utility, ... etc
 ```python
+import cv2
+import numpy as np
 import skimage 
 from skimage import filters, io
 
