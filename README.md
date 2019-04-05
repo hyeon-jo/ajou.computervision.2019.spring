@@ -21,7 +21,7 @@ When you use your own favorite environment and tools that we didn't recomend, **
     - Run your pycharm 
   
 4. Import Skeleton Project from GitHub.
-    - https://github.com/waps12b/ajou.computervision.2018.spring.git
+    - https://github.com/hyeon-jo/ajou.computervision.2019.spring
     - ![](./figures/figure03.PNG)
 
 5. Set <code>ajoucv</code> environment as your project interpreter.
