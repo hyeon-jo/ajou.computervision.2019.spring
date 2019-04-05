@@ -8,10 +8,10 @@ When you use your own favorite environment and tools that we didn't recomend, **
 
 
 ## Environment Setting using Anconda and PyCharm (Recommended)
-1. Install Newest Anaconda (Mandatory)
+1. ~~Install Newest Anaconda (Mandatory)~~ (파이참을 사용합시다!)
     - https://www.anaconda.com/download/
     - DO NOT ALLOW ADMINISTRATOR PRIVILEGE IN WINDOWS INSTALL WIZARD.
-2. Create your python virtual environment in your Termianl or CMD
+2. ~~Create your python virtual environment in your Termianl or CMD~~
     ```
     conda update anaconda
     conda create -n ajoucv python=3.6
